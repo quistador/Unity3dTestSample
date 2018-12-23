@@ -47,3 +47,17 @@ public class NewTestScript
     }
 }
 ```
+
+the line :
+
+```
+        int a = NewBehaviorScript.FunctionUnderTest(1);
+```
+
+is causing the compilation error:
+
+```
+Assets/TestS/NewTestScript.cs(11,17): error CS0103: The name `NewBehaviorScript' does not exist in the current context
+```
+
+Can this be resolved?
