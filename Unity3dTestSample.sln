@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{ECB6B0D1-C9AD-B6F9-1DC9-2966822AC1BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewBehaviourAssembly", "NewBehaviourAssembly.csproj", "{EC1D4666-997B-4C5A-A8AA-AAA51983B10E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestS", "TestS.csproj", "{0A8E86F7-5A1C-0370-F005-192F35E3B341}"
 EndProject
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ECB6B0D1-C9AD-B6F9-1DC9-2966822AC1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ECB6B0D1-C9AD-B6F9-1DC9-2966822AC1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ECB6B0D1-C9AD-B6F9-1DC9-2966822AC1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ECB6B0D1-C9AD-B6F9-1DC9-2966822AC1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1D4666-997B-4C5A-A8AA-AAA51983B10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1D4666-997B-4C5A-A8AA-AAA51983B10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1D4666-997B-4C5A-A8AA-AAA51983B10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1D4666-997B-4C5A-A8AA-AAA51983B10E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0A8E86F7-5A1C-0370-F005-192F35E3B341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0A8E86F7-5A1C-0370-F005-192F35E3B341}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A8E86F7-5A1C-0370-F005-192F35E3B341}.Release|Any CPU.ActiveCfg = Release|Any CPU
