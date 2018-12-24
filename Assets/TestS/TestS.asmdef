@@ -1,6 +1,8 @@
 {
     "name": "TestS",
-    "references": [],
+    "references": [
+        "NewBehaviourAssembly"
+    ],
     "optionalUnityReferences": [
         "TestAssemblies"
     ],
